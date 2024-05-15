@@ -1,0 +1,4 @@
+CREATE VIEW Daily_Orders AS
+SELECT *
+FROM Sales_Order
+WHERE CONVERT(DATE, S_order_date) = CONVERT(DATE, GETDATE());
