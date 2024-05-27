@@ -1,0 +1,10 @@
+C:\Users\NCS\source\repos\WindowsCrud\bin\Debug\WindowsCrud.exe.config
+C:\Users\NCS\source\repos\WindowsCrud\bin\Debug\WindowsCrud.exe
+C:\Users\NCS\source\repos\WindowsCrud\bin\Debug\WindowsCrud.pdb
+C:\Users\NCS\source\repos\WindowsCrud\obj\Debug\WindowsCrud.csproj.AssemblyReference.cache
+C:\Users\NCS\source\repos\WindowsCrud\obj\Debug\WindowsCrud.Form1.resources
+C:\Users\NCS\source\repos\WindowsCrud\obj\Debug\WindowsCrud.Properties.Resources.resources
+C:\Users\NCS\source\repos\WindowsCrud\obj\Debug\WindowsCrud.csproj.GenerateResource.cache
+C:\Users\NCS\source\repos\WindowsCrud\obj\Debug\WindowsCrud.csproj.CoreCompileInputs.cache
+C:\Users\NCS\source\repos\WindowsCrud\obj\Debug\WindowsCrud.exe
+C:\Users\NCS\source\repos\WindowsCrud\obj\Debug\WindowsCrud.pdb
